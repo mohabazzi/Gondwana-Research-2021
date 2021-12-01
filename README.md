@@ -4,6 +4,7 @@ Southern higher-latitude lamniform sharks track mid-Cretaceous environmental cha
 Data, statistical analyses, and R scripts accompanying our accepted article:
 
 *Southern higher-latitude lamniform sharks track mid-Cretaceous environmental change*
+
 https://doi.org/10.1016/j.gr.2021.10.012
 
 ---------------------------------------------------------------------------------------
