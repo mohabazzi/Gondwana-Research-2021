@@ -13,6 +13,6 @@ https://doi.org/10.1016/j.gr.2021.10.012
 
 [Images](/Images) contains outputs (Figs 1-4, and 5).
 
-[Supplementary Images] contains outputs (S1-S14)
+[Images](/Images) contains outputs (S1-S14)
 
 If you would like to replicate the analysis, clone this repository and run the R code.
