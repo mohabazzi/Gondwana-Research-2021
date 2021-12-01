@@ -9,7 +9,7 @@ https://doi.org/10.1016/j.gr.2021.10.012
 
 ---------------------------------------------------------------------------------------
 
-[R Markdown](/R Markdown) contains .R scripts with code to create Figs 1-4 and S1-S14. 
+[r](/r) contains .R scripts with code to create Figs 1-4 and S1-S14. 
 
 [Images](/Images) contains outputs (Figs 1-4, and 5).
 
