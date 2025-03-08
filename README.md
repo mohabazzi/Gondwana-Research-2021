@@ -13,7 +13,7 @@ by Mohamad Bazzi, Benjamin P. Kear and Mikael Siversson
 Code written and maintained by Mohamad Bazzi 
 <br/>
 Contact:
-<mohammmed_bazzi@hotmail.com>
+<mohammed_bazzi@hotmail.com>
 
 ## Files
 
