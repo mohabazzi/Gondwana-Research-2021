@@ -1,13 +1,20 @@
-# Gondwana-Research-2021
-Southern higher-latitude lamniform sharks track mid-Cretaceous environmental change
+<!-- README.md is generated from README.Rmd. -->
 
-Data, statistical analyses, and R scripts accompanying our published article:
+# Southern higher-latitude lamniform sharks track mid-Cretaceous environmental change
 
-*Southern higher-latitude lamniform sharks track mid-Cretaceous environmental change*
+<!-- badges: start -->
+<!-- badges: end -->
 
-https://doi.org/10.1016/j.gr.2021.10.012
+This GitHub repository contains the code used to analyse all
+datasets presented in **Southern higher-latitude lamniform sharks track mid-Cretaceous environmental change**
 
----------------------------------------------------------------------------------------
+by Mohamad Bazzi, Benjamin P. Kear and Mikael Siversson 
+
+Code written and maintained by Mohamad Bazzi 
+<br/>
+Contact:
+<mohammmed_bazzi@hotmail.com>
+
 ## Files
 
 [r](/r) contains .R scripts with code to create **Figs 1-4** and **S1-S14**. 
@@ -15,5 +22,3 @@ https://doi.org/10.1016/j.gr.2021.10.012
 [Images](/Images) contains outputs **(Figs 1-5)**.
 
 [Supplementary Images](/Supplementary%20Images) contains outputs **(S1-S14)**.
-
-If you would like to replicate the analysis, clone this repository and run the R code.
